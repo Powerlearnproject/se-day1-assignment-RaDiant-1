@@ -28,6 +28,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+...
 The Waterfall methodology is a linear, sequential approach where each phase (e.g., planning, design, development) is completed fully before moving on to the next, making it ideal for projects with fixed, clear requirements and minimal expected change, like government or construction projects. In contrast, Agile is an iterative, flexible approach where work is done in short cycles called sprints, allowing continuous customer feedback and adaptation, making it well-suited for dynamic environments like software startups or evolving products like mobile apps. While Waterfall emphasizes comprehensive upfront documentation and limited customer involvement until the end, Agile focuses on minimal documentation, constant collaboration, and continuous testing throughout the development process. Waterfall is ideal for projects with fixed, clear requirements and minimal expected change, such as government or construction projects. While, Agile is well-suited for dynamic environments, like software startups or products that evolve frequently, such as mobile apps.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
